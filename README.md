@@ -12,13 +12,15 @@ This prototype is under two broad concepts and ideas,
 1. Visualize different types of 'V Neck', for example: deep v neck, vintage v neck, etc. 
 From my personal experience, I can't really tell what's difference among those v necks but in different styles.
 
-2. After selecting one specific style, user can then drag one of the v neck type with matching colors on the screen. (In this prototype, I only demo the matching color concept, the matching color function is faked) The idea is this colors do not necessary stand for apparel's color but could be everything in colors. For example, your mood, your current feeling, etc. 
+2. After selecting one specific style, user can then drag one of the v neck type with matching colors on the screen. (In this prototype, I only demo the matching color concept, the matching color function is faked) 
 
-This approach trys to blend a specic search (style) with wildcard search (colors)
+The idea is this color-matching behavior do not necessary stand for selecting apparel's color but could be everything out of user's mind but in colors. For example, the color of party theme? your current feeling, mood? etc. I'm trying to imagine there's an AI engine behind this search, the process of selecting colors can be related to different scenarios of selecting apparels but not only limited to only apparel’s color. 
+
+This prototype tries to blend a specific search (style) with wildcard search (colors).
 
 1. A Coffee script code based, live-demo prototype made by Framer and Sketch 
 2. Use Framer animation library to guide the user through the interface. 
-3. No offline data. Borrow images assets from Zalando, Urban Outfitters' website. Use webfont from Google. 
+3. No offline data. Borrow images assets from Zalando, Urban Outfitters' website. Use web font from Google. 
 4. Imagine how the experience might be before or after these two steps?
 
    state01
@@ -28,5 +30,6 @@ This approach trys to blend a specic search (style) with wildcard search (colors
    state02
    
    state02_5
+
 
 
