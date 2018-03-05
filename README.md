@@ -8,15 +8,16 @@ This is a Guided Search prototype created by Framer and Sketch
 ### Description
 This prototype showcases few outcomes and bring some thoughts,
 
-This prototype is under two broad concepts and ideas,
+There are two broad concepts and ideas under the hood,
 1. Visualize different types of 'V Neck', for example: deep v neck, vintage v neck, etc. 
 From my personal experience, I can't really tell what's difference among those v necks but in different styles.
 
-2. After selecting one specific style, user can then drag one of the v neck type with matching colors on the screen. (In this prototype, I only demo the matching color concept, the matching color function is faked) 
+2. After selecting one specific style, user can then drag one of the v neck type with matching rainbow colors on the screen. (In this prototype, I only demo the color matching concept, the matching color function is faked for now) 
 
-The idea is this color-matching behavior do not necessary stand for selecting apparel's color but could be everything out of user's mind but in colors. For example, the color of party theme? your current feeling, mood? etc. I'm trying to imagine there's an AI engine behind this search, the process of selecting colors can be related to different scenarios of selecting apparels but not only limited to only apparel’s color. 
+The idea is this color-matching behavior do not necessary stand for selecting apparel's color only but could be everything out of user's mind but in colors. For example, the color of party theme tonight? your current feeling, mood? the sky of your next trip? etc. I'm trying tohe imagine there's an AI engine behind this search, the process of selecting colors can be related to different scenarios of selecting apparels but not only limited to only apparel’s color. 
 
-This prototype tries to blend a specific search (style) with wildcard search (colors).
+### The protytpe
+This prototype tries to blend a specific search (style) with heuristic search (colors).
 
 1. A Coffee script code based, live-demo prototype made by Framer and Sketch 
 2. Use Framer animation library to guide the user through the interface. 
