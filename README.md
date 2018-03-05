@@ -13,7 +13,7 @@ There are few broad concepts and ideas under the hood,
 
 1. Visualization:  
 To visualize different types of 'V Neck' clothes, For example: deep v neck, vintage v neck, etc. 
-From my personal experience, I can't really tell what's difference among those different v neck. I'm always wondering, what's the name for styles? how does deep, vintage looks like? 
+From my personal experience, I can't really tell what's difference among those different v neck. I'm always wondering, what's the name for styles? how does deep, vintage look like? 
 
 2. Intelligence:  
 After user is selecting one specific style, user can then drag one of the v neck style picture with matching rainbow colors showing on the screen. (In this prototype, I only demo the color matching concept, the color matching outline should be associated where the rainbow color user is dragging on) 
