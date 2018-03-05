@@ -1,9 +1,9 @@
 ## Guided Search Prototype
 This is a Guided Search prototype created by Framer and Sketch
 
-[![Guided search prototype](https://media.giphy.com/media/2xPPD5n2ERJTJi83aQ/giphy.gif)]
+![Guided search prototype](https://media.giphy.com/media/2xPPD5n2ERJTJi83aQ/giphy.gif)
 
-[Live Demo](https://framer.cloud/nslkn)
+[Live Demo](https://framer.cloud/nslkn) here!! :rocket:
 
 ### Description
 This prototype showcases few outcomes and bring some thoughts,
